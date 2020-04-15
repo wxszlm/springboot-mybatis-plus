@@ -1,0 +1,2 @@
+# springboot-mybatis-plus
+springboot整合mybatisplus常用的一写功能，功能模块主要在tspringbootTest目录下面
